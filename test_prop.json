@@ -136,7 +136,7 @@
           "title": "Total crimes",
           "scale": {
             "type": "threshold",
-            "domain": [1000, 3000, 5000, 10000],
+            "domain": [50, 200, 500, 1000],
             "range": ["#fee5d9", "#fcae91", "#fb6a4a", "#de2d26", "#a50f15"]
           },
           "legend": { "format": ",", "title": "Total crimes" }
