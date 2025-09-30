@@ -110,10 +110,10 @@
       ],
       "mark": {
         "type": "circle",
-        "opacity": 0.9,
+        "opacity": 0.7,
         "stroke": "white",
         "strokeWidth": 0.3
-      },
+          },
       "encoding": {
         "longitude": { "field": "lon", "type": "quantitative" },
         "latitude": { "field": "lat", "type": "quantitative" },
@@ -127,7 +127,7 @@
             "domain": [50000, 100000, 200000, 500000],
             "range": [50, 100, 190, 300, 420]
           },
-          "legend": { "format": ",", "title": "Total GDP" }
+          "legend": { "format": ",", "title": "Total GDP (RM Million)" }
         },
 
         "color": {
